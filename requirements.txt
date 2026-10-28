@@ -1,0 +1,6 @@
+# Clinical Trial Scout Agent — Dependencies
+# All are stdlib-only except pytest for testing.
+# The core system uses only Python standard library.
+
+# Testing
+pytest>=7.4.0
